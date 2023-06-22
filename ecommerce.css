@@ -1,0 +1,216 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+ align-items: center;
+ font-family: 'Roboto', sans-serif;
+ 
+ 
+
+
+
+}
+
+
+
+
+.flex{
+
+
+    display: flex;
+    background-color: lightsalmon;
+    justify-content: space-between;
+    padding-left: 40px;
+    color: aliceblue;
+    
+}
+
+.list{
+
+display: flex;
+padding: 0px 20px ;
+list-style: none;
+
+margin: 20px;
+}
+
+.list a{
+
+ padding: 0px 20px;
+ font-size: 25px;
+ color: white;
+ list-style: none;
+ text-decoration: none;
+
+
+
+}
+
+
+.heading{
+
+margin: 20px;
+
+}
+
+.heading p{
+
+margin: 25px;
+
+
+
+}
+
+
+.head h1{
+    text-align: center;
+}
+
+.heading h1{
+
+font-size: large;
+margin-left: 20px;
+
+
+}
+
+/* .image222{
+
+    height: 300px;
+    width: 400px;
+   
+
+
+}
+
+.image222 img{
+
+    width: 100%;
+    height: auto;
+ 
+
+}
+
+
+
+.imageflex{
+
+
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 100%; */
+    /* padding: 30px; */
+ */
+
+
+
+.newflex{
+    display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+
+}
+.newflex img{
+    height: 250px;
+    width: 250px;
+    margin-top: 80px;
+    margin-right: 80px;
+}
+
+.cart{
+
+    width: 170px;
+    height: 40px;
+  
+    border-radius: 5px;
+    margin-left: 30px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+  
+
+}
+
+.imageone{
+
+  background-color: aquamarine;
+  width: 180px;
+  height: 140px;
+  
+
+}
+
+.flexbb{
+
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.flexbb a{
+ text-decoration: none;
+ color: black;
+
+
+
+}
+
+.flexbb h1{
+    border: 5px solid darkcyan;
+    border-radius: 20px;
+    width: 200px;
+   padding-left: 12px;
+   box-shadow: 10px 5px silver;
+  margin: 30px;
+
+ 
+}
+
+.flexbb p{
+
+margin-right: 40px;
+
+
+
+}
+
+
+.boxxx{
+
+   height: 350px;
+   width: 100%;
+  background-color: black;
+ 
+  margin-top: 50px;
+  color: white;
+  
+
+
+
+
+}
+
+.boxxx{
+
+
+    padding: 20px;
+
+
+}
+
+.product{
+    width: 25%;
+}
+
+
+
